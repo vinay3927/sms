@@ -1,0 +1,1 @@
+Student sends a request to the admin by saying that he/she paid fee to the college by mentioning the year,phase. he sends a reciept of payment to the admin. Admin checks the reciept. if it fine then he will update the status of fee paid as yes.
